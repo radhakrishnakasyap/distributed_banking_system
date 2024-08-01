@@ -1,1 +1,5 @@
-C:\Users\rpasumarthy\Documents\Projects\distributed-banking-system\common\src\main\java\com\example\common\model\Address.java
+C:\Users\rpasumarthy\Documents\Projects\distributed-banking-system\common-service\src\main\java\com\example\common\CommonServiceApplication.java
+C:\Users\rpasumarthy\Documents\Projects\distributed-banking-system\common-service\src\main\java\com\example\common\controller\AddressController.java
+C:\Users\rpasumarthy\Documents\Projects\distributed-banking-system\common-service\src\main\java\com\example\common\model\Address.java
+C:\Users\rpasumarthy\Documents\Projects\distributed-banking-system\common-service\src\main\java\com\example\common\repository\AddressRepository.java
+C:\Users\rpasumarthy\Documents\Projects\distributed-banking-system\common-service\src\main\java\com\example\common\service\AddressService.java

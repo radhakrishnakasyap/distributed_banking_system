@@ -1,1 +1,5 @@
 com\example\common\model\Address.class
+com\example\common\repository\AddressRepository.class
+com\example\common\controller\AddressController.class
+com\example\common\CommonServiceApplication.class
+com\example\common\service\AddressService.class
