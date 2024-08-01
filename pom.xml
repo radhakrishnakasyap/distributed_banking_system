@@ -15,7 +15,7 @@
         <module>branch-service</module>
         <module>employee-service</module>
         <module>loan-service</module>
-        <module>common</module>
+        <module>common-service</module>
     </modules>
 
     <dependencyManagement>
@@ -42,6 +42,10 @@
             <artifactId>lombok</artifactId>
             <version>1.18.22</version>
             <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.kafka</groupId>
+            <artifactId>spring-kafka</artifactId>
         </dependency>
     </dependencies>
 

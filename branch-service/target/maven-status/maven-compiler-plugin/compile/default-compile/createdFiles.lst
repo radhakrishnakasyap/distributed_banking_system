@@ -1,2 +1,5 @@
 com\example\branch\BranchServiceApplication.class
+com\example\branch\controller\BranchController.class
+com\example\branch\repository\BranchRepository.class
+com\example\branch\service\BranchService.class
 com\example\branch\model\Branch.class
